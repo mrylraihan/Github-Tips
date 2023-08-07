@@ -28,4 +28,5 @@ Example of how your `.gitignore` should looks is as simple as this :
 ```
 /node_modules
 
-```# Github-Tips
+```
+### Github-Tips
